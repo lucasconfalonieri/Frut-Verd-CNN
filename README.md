@@ -1,1 +1,1 @@
-# Frut-Verd-CNN
+# CNN-Frutas-Verduras
